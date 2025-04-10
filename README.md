@@ -2,7 +2,10 @@
 Predict stock price using 12 variants of LSTM and GRU
 
 ### Results
+
 ![Results after training 12 variants](https://github.com/hannahbui/stock-price-prediction/blob/main/model_training_result.png)
+
+![Result compared to traiditional methods using GRU or LSTM alone](https://github.com/hannahbui/stock-price-prediction/blob/main/result.png)
 
 ### Report and Presentation Slide
 - [Report](https://github.com/hannahbui/stock-price-prediction/blob/main/COS30018_Group2_Report.pdf)
