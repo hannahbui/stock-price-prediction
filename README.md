@@ -13,7 +13,7 @@ Predict stock price using 12 variants of LSTM and GRU
 
 ### Project Directory Structure
 ```
-├── stock-price-prediction <- Project Main Directory
+├── group2_code_submission <- Project Code Main Directory
 │   ├── data <- data in different format
 |   |   ├── processed <- The final, canonical data sets for modeling
 |   |   ├── stock_indicators <- Add basic indicators related to stock (e.g. MDA)
