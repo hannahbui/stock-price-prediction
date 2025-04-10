@@ -1,19 +1,15 @@
 # stock-price-prediction
-Predict stock price using LSTM, WGAN, and Probabilistic Deep Learning
+Predict stock price using 12 variants of LSTM and GRU
 
 ### Project Directory Structure
-
 ```
 ├── stock-price-prediction <- Project Main Directory
-|   |── api <- Consists of scripts which serialize the API calls and act as a endpoint faciliating for project functions.
 │   ├── data <- data in different format
 |   |   ├── processed <- The final, canonical data sets for modeling
 |   |   ├── stock_indicators <- Add basic indicators related to stock (e.g. MDA)
 |   |   ├── price_graph <- Add collective influence (ci) columns 
 |   |   ├── raw <- The original, immutable data dump
-|   ├── notebooks <- All the ipython notebooks used for the whold process
-│   ├── 
-|   |   ├── 
-|   |   ├── 
-│   ├── 
+|   ├── notebooks <- All the ipython notebooks used for the whole process
+│   ├── demo_notebooks <- demo results when running different versions of models
+│   ├── frontend <- API and streamlit web app code
 ```
