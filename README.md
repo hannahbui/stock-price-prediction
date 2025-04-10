@@ -2,7 +2,11 @@
 Predict stock price using 12 variants of LSTM and GRU
 
 ### Results
-![Results after training 12 variants](/Users/buithanhthao/Documents/Swinburne/COS30018 - Intelligent Systems/Group_Project/submit/code/stock-price-prediction/model_training_result.png)
+![Results after training 12 variants](https://github.com/hannahbui/stock-price-prediction/blob/main/model_training_result.png)
+
+### Report and Presentation Slide
+- [Report](https://github.com/hannahbui/stock-price-prediction/blob/main/COS30018_Group2_Report.pdf)
+- [Presentation Slide](https://github.com/hannahbui/stock-price-prediction/blob/main/COS30018_Group2_PresentationSlide.pdf)
 
 ### Project Directory Structure
 ```
